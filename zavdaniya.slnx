@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="zavdaniya/zavdaniya.vcxproj" Id="57dab008-2ce2-4c67-a50d-08e287e7eb7c" />
+</Solution>
